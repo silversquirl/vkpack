@@ -58,7 +58,7 @@
 				"enabled": "false"
 			},
 			"apply": {
-				"model": "block/torch_indicator_on_hopper"
+				"model": "block/torch_indicator_on_hopper_side"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 				"enabled": "false"
 			},
 			"apply": {
-				"model": "block/torch_indicator_on_hopper",
+				"model": "block/torch_indicator_on_hopper_side",
 				"y": 180
 			}
 		},
@@ -77,7 +77,7 @@
 				"enabled": "false"
 			},
 			"apply": {
-				"model": "block/torch_indicator_on_hopper",
+				"model": "block/torch_indicator_on_hopper_side",
 				"y": 270
 			}
 		},
@@ -87,7 +87,7 @@
 				"enabled": "false"
 			},
 			"apply": {
-				"model": "block/torch_indicator_on_hopper",
+				"model": "block/torch_indicator_on_hopper_side",
 				"y": 90
 			}
 		},
@@ -106,7 +106,7 @@
 				"enabled": "true"
 			},
 			"apply": {
-				"model": "block/torch_indicator_off_hopper"
+				"model": "block/torch_indicator_off_hopper_side"
 			}
 		},
 		{
@@ -115,7 +115,7 @@
 				"enabled": "true"
 			},
 			"apply": {
-				"model": "block/torch_indicator_off_hopper",
+				"model": "block/torch_indicator_off_hopper_side",
 				"y": 180
 			}
 		},
@@ -125,7 +125,7 @@
 				"enabled": "true"
 			},
 			"apply": {
-				"model": "block/torch_indicator_off_hopper",
+				"model": "block/torch_indicator_off_hopper_side",
 				"y": 270
 			}
 		},
@@ -135,7 +135,7 @@
 				"enabled": "true"
 			},
 			"apply": {
-				"model": "block/torch_indicator_off_hopper",
+				"model": "block/torch_indicator_off_hopper_side",
 				"y": 90
 			}
 		}
