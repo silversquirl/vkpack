@@ -1,0 +1,25 @@
+{
+	"multipart": [
+		{
+			"apply": {
+				"model": "block/note_block"
+			}
+		},
+		{
+			"when": {
+				"powered": "false"
+			},
+			"apply": {
+				"model": "block/torch_indicator_off_noteblock"
+			}
+		},
+		{
+			"when": {
+				"powered": "true"
+			},
+			"apply": {
+				"model": "block/torch_indicator_on_noteblock"
+			}
+		}
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"torch": "block/redstone_torch"
+	},
+	"elements": [
+		{
+			"from": [7, -0.05, 7],
+			"to": [9, 16.05, 9],
+			"faces": {
+				"down": {
+					"texture": "#torch",
+					"uv": [7, 6, 9, 8],
+					"cullface": "down"
+				},
+				"up": {
+					"texture": "#torch",
+					"uv": [7, 6, 9, 8],
+					"cullface": "up"
+				}
+			}
+		},
+		{
+			"from": [7, 7, -0.05],
+			"to": [9, 9, 16.05],
+			"faces": {
+				"north": {
+					"texture": "#torch",
+					"uv": [7, 6, 9, 8],
+					"cullface": "north"
+				},
+				"south": {
+					"texture": "#torch",
+					"uv": [7, 6, 9, 8],
+					"cullface": "south"
+				}
+			}
+		},
+		{
+			"from": [-0.05, 7, 7],
+			"to": [16.05, 9, 9],
+			"faces": {
+				"east": {
+					"texture": "#torch",
+					"uv": [7, 6, 9, 8],
+					"cullface": "east"
+				},
+				"west": {
+					"texture": "#torch",
+					"uv": [7, 6, 9, 8],
+					"cullface": "west"
+				}
+			}
+		}
+	]
+}
