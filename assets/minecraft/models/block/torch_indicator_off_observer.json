@@ -1,7 +1,7 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"side": "block/redstone_torch_off"
+		"torch": "block/redstone_torch_off"
 	},
 	"elements": [
 		{
@@ -9,12 +9,12 @@
 			"to": [9, 14, 16.05],
 			"faces": {
 				"north": {
-					"texture": "#side",
+					"texture": "#torch",
 					"uv": [7, 6, 9, 16],
 					"cullface": "north"
 				},
 				"south": {
-					"texture": "#side",
+					"texture": "#torch",
 					"uv": [7, 6, 9, 16],
 					"cullface": "south"
 				}
@@ -25,12 +25,12 @@
 			"to": [16.05, 14, 9],
 			"faces": {
 				"east": {
-					"texture": "#side",
+					"texture": "#torch",
 					"uv": [7, 6, 9, 16],
 					"cullface": "east"
 				},
 				"west": {
-					"texture": "#side",
+					"texture": "#torch",
 					"uv": [7, 6, 9, 16],
 					"cullface": "west"
 				}
