@@ -1,0 +1,303 @@
+{
+	"multipart": [
+		{
+			"when": {
+				"facing": "up",
+				"powered": "false"
+			},
+			"apply": {
+				"model": "block/observer",
+				"x": 270
+			}
+		},
+		{
+			"when": {
+				"facing": "down",
+				"powered": "false"
+			},
+			"apply": {
+				"model": "block/observer",
+				"x": 90
+			}
+		},
+		{
+			"when": {
+				"facing": "north",
+				"powered": "false"
+			},
+			"apply": {
+				"model": "block/observer"
+			}
+		},
+		{
+			"when": {
+				"facing": "south",
+				"powered": "false"
+			},
+			"apply": {
+				"model": "block/observer",
+				"y": 180
+			}
+		},
+		{
+			"when": {
+				"facing": "west",
+				"powered": "false"
+			},
+			"apply": {
+				"model": "block/observer",
+				"y": 270
+			}
+		},
+		{
+			"when": {
+				"facing": "east",
+				"powered": "false"
+			},
+			"apply": {
+				"model": "block/observer",
+				"y": 90
+			}
+		},
+		{
+			"when": {
+				"facing": "up",
+				"powered": "true"
+			},
+			"apply": {
+				"model": "block/observer_on",
+				"x": 270
+			}
+		},
+		{
+			"when": {
+				"facing": "down",
+				"powered": "true"
+			},
+			"apply": {
+				"model": "block/observer_on",
+				"x": 90
+			}
+		},
+		{
+			"when": {
+				"facing": "north",
+				"powered": "true"
+			},
+			"apply": {
+				"model": "block/observer_on"
+			}
+		},
+		{
+			"when": {
+				"facing": "south",
+				"powered": "true"
+			},
+			"apply": {
+				"model": "block/observer_on",
+				"y": 180
+			}
+		},
+		{
+			"when": {
+				"facing": "west",
+				"powered": "true"
+			},
+			"apply": {
+				"model": "block/observer_on",
+				"y": 270
+			}
+		},
+		{
+			"when": {
+				"facing": "east",
+				"powered": "true"
+			},
+			"apply": {
+				"model": "block/observer_on",
+				"y": 90
+			}
+		},
+		{
+			"when": {
+				"facing": "up",
+				"powered": "true"
+			},
+			"apply": {
+				"model": "block/observer_eyes",
+				"x": 270
+			}
+		},
+		{
+			"when": {
+				"facing": "down",
+				"powered": "true"
+			},
+			"apply": {
+				"model": "block/observer_eyes",
+				"x": 90
+			}
+		},
+		{
+			"when": {
+				"facing": "north",
+				"powered": "true"
+			},
+			"apply": {
+				"model": "block/observer_eyes"
+			}
+		},
+		{
+			"when": {
+				"facing": "south",
+				"powered": "true"
+			},
+			"apply": {
+				"model": "block/observer_eyes",
+				"y": 180
+			}
+		},
+		{
+			"when": {
+				"facing": "west",
+				"powered": "true"
+			},
+			"apply": {
+				"model": "block/observer_eyes",
+				"y": 270
+			}
+		},
+		{
+			"when": {
+				"facing": "east",
+				"powered": "true"
+			},
+			"apply": {
+				"model": "block/observer_eyes",
+				"y": 90
+			}
+		},
+		{
+			"when": {
+				"facing": "up",
+				"powered": "true"
+			},
+			"apply": {
+				"model": "block/torch_indicator_on",
+				"x": 180
+			}
+		},
+		{
+			"when": {
+				"facing": "down",
+				"powered": "true"
+			},
+			"apply": {
+				"model": "block/torch_indicator_on"
+			}
+		},
+		{
+			"when": {
+				"facing": "north",
+				"powered": "true"
+			},
+			"apply": {
+				"model": "block/torch_indicator_on",
+				"x": 270
+			}
+		},
+		{
+			"when": {
+				"facing": "south",
+				"powered": "true"
+			},
+			"apply": {
+				"model": "block/torch_indicator_on",
+				"x": 90
+			}
+		},
+		{
+			"when": {
+				"facing": "west",
+				"powered": "true"
+			},
+			"apply": {
+				"model": "block/torch_indicator_on",
+				"y": 90,
+				"x": 90
+			}
+		},
+		{
+			"when": {
+				"facing": "east",
+				"powered": "true"
+			},
+			"apply": {
+				"model": "block/torch_indicator_on",
+				"y": 270,
+				"x": 90
+			}
+		},
+		{
+			"when": {
+				"facing": "up",
+				"powered": "false"
+			},
+			"apply": {
+				"model": "block/torch_indicator_off",
+				"x": 180
+			}
+		},
+		{
+			"when": {
+				"facing": "down",
+				"powered": "false"
+			},
+			"apply": {
+				"model": "block/torch_indicator_off"
+			}
+		},
+		{
+			"when": {
+				"facing": "north",
+				"powered": "false"
+			},
+			"apply": {
+				"model": "block/torch_indicator_off",
+				"x": 270
+			}
+		},
+		{
+			"when": {
+				"facing": "south",
+				"powered": "false"
+			},
+			"apply": {
+				"model": "block/torch_indicator_off",
+				"x": 90
+			}
+		},
+		{
+			"when": {
+				"facing": "west",
+				"powered": "false"
+			},
+			"apply": {
+				"model": "block/torch_indicator_off",
+				"y": 90,
+				"x": 90
+			}
+		},
+		{
+			"when": {
+				"facing": "east",
+				"powered": "false"
+			},
+			"apply": {
+				"model": "block/torch_indicator_off",
+				"y": 270,
+				"x": 90
+			}
+		}
+	]
+}

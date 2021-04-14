@@ -1,0 +1,65 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"torch": "block/redstone_torch_off"
+	},
+	"elements": [
+		{
+			"from": [
+				7,
+				12,
+				3
+			],
+			"to": [
+				9,
+				12,
+				13
+			],
+			"faces": {
+				"up": {
+					"uv": [
+						7,
+						6,
+						9,
+						16
+					],
+					"texture": "#torch"
+				}
+			}
+		},
+		{
+			"from": [
+				-0.01,
+				12,
+				3
+			],
+			"to": [
+				16.01,
+				14,
+				13
+			],
+			"faces": {
+				"west": {
+					"uv": [
+						7,
+						6,
+						9,
+						16
+					],
+					"rotation": 270,
+					"texture": "#torch"
+				},
+				"east": {
+					"uv": [
+						7,
+						6,
+						9,
+						16
+					],
+					"rotation": 90,
+					"texture": "#torch"
+				}
+			}
+		}
+	]
+}

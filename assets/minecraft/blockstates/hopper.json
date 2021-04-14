@@ -1,0 +1,143 @@
+{
+	"multipart": [
+		{
+			"when": {
+				"facing": "down"
+			},
+			"apply": {
+				"model": "block/hopper"
+			}
+		},
+		{
+			"when": {
+				"facing": "north"
+			},
+			"apply": {
+				"model": "block/hopper_side"
+			}
+		},
+		{
+			"when": {
+				"facing": "south"
+			},
+			"apply": {
+				"model": "block/hopper_side",
+				"y": 180
+			}
+		},
+		{
+			"when": {
+				"facing": "west"
+			},
+			"apply": {
+				"model": "block/hopper_side",
+				"y": 270
+			}
+		},
+		{
+			"when": {
+				"facing": "east"
+			},
+			"apply": {
+				"model": "block/hopper_side",
+				"y": 90
+			}
+		},
+		{
+			"when": {
+				"facing": "down",
+				"enabled": "false"
+			},
+			"apply": {
+				"model": "block/torch_indicator_on_hopper"
+			}
+		},
+		{
+			"when": {
+				"facing": "north",
+				"enabled": "false"
+			},
+			"apply": {
+				"model": "block/torch_indicator_on_hopper"
+			}
+		},
+		{
+			"when": {
+				"facing": "south",
+				"enabled": "false"
+			},
+			"apply": {
+				"model": "block/torch_indicator_on_hopper",
+				"y": 180
+			}
+		},
+		{
+			"when": {
+				"facing": "west",
+				"enabled": "false"
+			},
+			"apply": {
+				"model": "block/torch_indicator_on_hopper",
+				"y": 270
+			}
+		},
+		{
+			"when": {
+				"facing": "east",
+				"enabled": "false"
+			},
+			"apply": {
+				"model": "block/torch_indicator_on_hopper",
+				"y": 90
+			}
+		},
+		{
+			"when": {
+				"facing": "down",
+				"enabled": "true"
+			},
+			"apply": {
+				"model": "block/torch_indicator_off_hopper"
+			}
+		},
+		{
+			"when": {
+				"facing": "north",
+				"enabled": "true"
+			},
+			"apply": {
+				"model": "block/torch_indicator_off_hopper"
+			}
+		},
+		{
+			"when": {
+				"facing": "south",
+				"enabled": "true"
+			},
+			"apply": {
+				"model": "block/torch_indicator_off_hopper",
+				"y": 180
+			}
+		},
+		{
+			"when": {
+				"facing": "west",
+				"enabled": "true"
+			},
+			"apply": {
+				"model": "block/torch_indicator_off_hopper",
+				"y": 270
+			}
+		},
+		{
+			"when": {
+				"facing": "east",
+				"enabled": "true"
+			},
+			"apply": {
+				"model": "block/torch_indicator_off_hopper",
+				"y": 90
+			}
+		}
+	]
+}

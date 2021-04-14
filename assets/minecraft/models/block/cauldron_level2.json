@@ -1,0 +1,42 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"water": "block/water_still"
+	},
+	"elements": [
+		{
+			"from": [
+				1,
+				7,
+				1
+			],
+			"to": [
+				15,
+				12,
+				15
+			],
+			"faces": {
+				"up": {
+					"texture": "#water",
+					"tintindex": 0
+				},
+				"west": {
+					"texture": "#water",
+					"tintindex": 0
+				},
+				"east": {
+					"texture": "#water",
+					"tintindex": 0
+				},
+				"north": {
+					"texture": "#water",
+					"tintindex": 0
+				},
+				"south": {
+					"texture": "#water",
+					"tintindex": 0
+				}
+			}
+		}
+	]
+}

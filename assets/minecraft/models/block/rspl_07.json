@@ -1,0 +1,127 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"number": "font/ascii"
+	},
+	"elements": [
+		{
+			"from": [
+				6.75,
+				1.05,
+				6.25
+			],
+			"to": [
+				9.25,
+				1.05,
+				9.75
+			],
+			"faces": {
+				"up": {
+					"texture": "#number",
+					"uv": [
+						7,
+						3,
+						7.625,
+						3.875
+					]
+				}
+			}
+		},
+		{
+			"from": [
+				7,
+				1,
+				6.5
+			],
+			"to": [
+				9.5,
+				1,
+				10
+			],
+			"faces": {
+				"up": {
+					"texture": "#number",
+					"uv": [
+						7,
+						3,
+						7.625,
+						3.875
+					],
+					"tintindex": 1
+				}
+			}
+		},
+		{
+			"from": [
+				7,
+				1,
+				6
+			],
+			"to": [
+				9.5,
+				1,
+				9.5
+			],
+			"faces": {
+				"up": {
+					"texture": "#number",
+					"uv": [
+						7,
+						3,
+						7.625,
+						3.875
+					],
+					"tintindex": 1
+				}
+			}
+		},
+		{
+			"from": [
+				6.5,
+				1,
+				6.5
+			],
+			"to": [
+				9,
+				1,
+				10
+			],
+			"faces": {
+				"up": {
+					"texture": "#number",
+					"uv": [
+						7,
+						3,
+						7.625,
+						3.875
+					],
+					"tintindex": 1
+				}
+			}
+		},
+		{
+			"from": [
+				6.5,
+				1,
+				6
+			],
+			"to": [
+				9,
+				1,
+				9.5
+			],
+			"faces": {
+				"up": {
+					"texture": "#number",
+					"uv": [
+						7,
+						3,
+						7.625,
+						3.875
+					],
+					"tintindex": 1
+				}
+			}
+		}
+	]
+}
