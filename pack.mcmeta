@@ -1,6 +1,6 @@
 {
 	"pack": {
 		"pack_format": 4,
-		"description": "vk's redstone pack for 1.14+\nBased on RedCMD's pack for 1.13+\nWorks with any other pack"
+		"description": "vk's redstone pack\nBased on RedCMD's 1.13+ pack"
 	}
 }
