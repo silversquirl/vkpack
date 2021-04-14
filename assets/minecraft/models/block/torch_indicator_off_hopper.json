@@ -5,9 +5,14 @@
 	},
 	"elements": [
 		{
-			"from": [7, 11.01, 7],
+			"from": [7, -0.01, 7],
 			"to": [9, 11.01, 9],
 			"faces": {
+				"down": {
+					"uv": [7, 6, 9, 8],
+					"texture": "#torch",
+					"cullface": "down"
+				},
 				"up": {
 					"uv": [7, 6, 9, 8],
 					"texture": "#torch",
