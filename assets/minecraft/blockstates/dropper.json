@@ -120,7 +120,7 @@
 				"triggered": "true"
 			},
 			"apply": {
-				"model": "block/torch_indicator_off_dropper"
+				"model": "block/torch_indicator_on_dropper"
 			}
 		},
 		{
